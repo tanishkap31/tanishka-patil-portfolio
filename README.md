@@ -1,4 +1,4 @@
-# T. Patil – Web Developer Portfolio
+# Tanishka Patil – Web Developer Portfolio
 
 This is my personal portfolio website built using HTML5 and CSS3.
 
